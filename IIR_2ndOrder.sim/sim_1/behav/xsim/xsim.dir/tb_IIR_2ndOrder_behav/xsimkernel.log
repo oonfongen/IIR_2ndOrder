@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_IIR_2ndOrder_behav/xsimk -simmode gui -wdb tb_IIR_2ndOrder_behav.wdb -simrunnum 0 -socket 39815
+Design successfully loaded
+Design Loading Memory Usage: 23868 KB (Peak: 23988 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 109964 KB (Peak: 163136 KB)
+Simulation CPU Usage: 180 ms
